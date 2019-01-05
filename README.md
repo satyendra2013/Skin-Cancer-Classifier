@@ -14,3 +14,4 @@ Upload the Cancer folder into drive which comprises of train_dir, val_dir, test_
 #Give image path
 image_path = 'drive/My Drive/Cancer/test_dir/6/ISIC_0024309.jpg' #Change path of image to get different image.
 
+Here is a small prototype of final skin cancer classifier app. !(https://share.proto.io/LPE8ES/)
